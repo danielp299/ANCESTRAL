@@ -1,6 +1,6 @@
 # ANCESTRAL_NFT
 
-##FE Ancestral Token
+## FE Ancestral Token
 Fe Ancestrar NFT Game
 
 TOTAL: 620.000.000
